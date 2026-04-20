@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'dd-catcafe'
 author 'DUDU'
-version 'v1.0.0'
+version 'v1.0.2'
 description 'Sistema completo de Cat Café com crafting, gatos interativos e sistema de assentos.'
 
 shared_scripts {
